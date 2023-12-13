@@ -13,13 +13,11 @@ void f_pall(stack_t **head, unsigned int counter)
 
     h = *head;
 
-    // Check if the stack is empty
     if (h == NULL)
     {
         return;
     }
 
-    // Loop through the stack and print each element
     while (h)
     {
         printf("%d\n", h->n);
