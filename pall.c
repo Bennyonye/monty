@@ -9,14 +9,14 @@
 void f_pall(stack_t **head, unsigned int counter)
 {
     stack_t *h;
-    (void)counter; // Counter is not used, so we silence the unused variable warning
+    (void)counter;
 
     h = *head;
 
     // Check if the stack is empty
     if (h == NULL)
     {
-        return; // If the stack is empty, no need to print anything
+        return;
     }
 
     // Loop through the stack and print each element
