@@ -153,3 +153,7 @@ julien@ubuntu:~/monty$
 2. You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 3. You are not allowed to publish any content of this project.
 4. Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+## Authors/Collaborators
+
+Benedict Igbukolu || Daniel Izevibje
