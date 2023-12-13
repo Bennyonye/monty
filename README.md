@@ -156,4 +156,5 @@ julien@ubuntu:~/monty$
 
 ## Authors/Collaborators
 
-Benedict Igbukolu || Daniel Izevibje
+* Benedict Igbukolu
+* Daniel Izevibje
