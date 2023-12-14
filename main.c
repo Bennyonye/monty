@@ -1,8 +1,6 @@
 #include "monty.h"
 bus_t bus = {NULL, NULL, NULL, 0};
-
 #define MAX_LINE_SIZE 1024
-
 /**
  * main - monty code interpreter
  * @argc: number of arguments
